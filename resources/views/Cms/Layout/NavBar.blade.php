@@ -1,7 +1,7 @@
-<nav class="pcoded-navbar menu-light brand-blue">
-    <div class="navbar-wrapper">
-        <div class="navbar-content scroll-div">
-            <ul class="nav pcoded-inner-navbar">
+<nav class="pcoded-navbar theme-horizontal menu-light brand-blue">
+    <div class="navbar-wrapper container">
+        <div class="navbar-content sidenav-horizontal" id="layout-sidenav">
+            <ul class="nav pcoded-inner-navbar sidenav-inner">
                 <li class="nav-item pcoded-menu-caption">
                     <label>Navigation</label>
                 </li>
@@ -9,6 +9,9 @@
                     <a href="index.html" class="nav-link "><span class="pcoded-micon"><i
                                 class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
                 </li>
+                class="feather icon-sidebar"></i></span><span class="pcoded-mtext">Sample
+                    page</span></a></li>
+
             </ul>
         </div>
     </div>
