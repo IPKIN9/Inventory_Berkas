@@ -52,7 +52,8 @@
                                 <ul class="pro-body">
                                     <li><a href="#" class="dropdown-item"><i class="feather icon-user"></i> Profile</a>
                                     </li>
-                                    <li><a href="#" class="dropdown-item"><i class="feather icon-lock"></i> Log Out</a>
+                                    <li><a href="{{route('logout')}}" class="dropdown-item"><i
+                                                class="feather icon-lock"></i> Log Out</a>
                                     </li>
                                 </ul>
                             </div>
